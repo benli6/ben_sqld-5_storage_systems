@@ -6,7 +6,7 @@
 
 11.1. [Базы данных, их типы](https://github.com/benli6/ben_sqld-5_storage_systems/blob/main/ben_sqld-5_db_types.md)
 
-11.2. Кеширование Redis/memcached
+11.2. [Кеширование Redis/memcached](https://github.com/benli6/ben_sqld-5_storage_systems/blob/main/ben_sqld-5_cach.md)
 
 11.3. ELK
 
