@@ -10,4 +10,4 @@
 
 11.3. ELK
 
-11.4. Очереди RabbitMQ
+11.4. [Очереди RabbitMQ](https://github.com/benli6/ben_sqld-5_storage_systems/blob/main/ben_sqld-5_rabbit.md)
